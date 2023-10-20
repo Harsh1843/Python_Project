@@ -8,4 +8,4 @@ def index():
   return "Hello World"
 if __name__=="__main__":
   #Run the Flask application if the script is executed directly
-  run.app()
+  app.run()
